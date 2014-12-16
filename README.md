@@ -29,8 +29,8 @@ Ajax is a very powerful concept to access data dynamically. Honestly it's becomi
 
 }
 
-//Just copy & paste the function aCall() for any DOM element you want to use and set the params with either the GET or POST //method and the name of the file
+/*Just copy & paste the function aCall() for any DOM element you want to use and set the params with either the GET or POST method and the name of the file*/
 aCall("GET", "myStory.txt");
 
 
-</script
+</script>
